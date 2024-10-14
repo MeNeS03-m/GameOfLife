@@ -17,7 +17,7 @@ class Verden {
         System.out.println("Antall levende celler:" + rutenett.antallLevende());
         rutenett.tegnRutenett();
     }
-// Det er den metoden jeg snakker om i game of life fila. Den fungerer paa testene og ser veldig riktig ut for meg???
+
     public void oppdatering() {
         for (int i = 0; i < rader; i++) {
             for (int j = 0; j < kolonner; j++) {

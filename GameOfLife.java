@@ -19,8 +19,3 @@ class GameOfLife {
 
     }
 }
-/* Jeg forstar ikke helt hva som er greia her... det er nemlig det at hele koden fungerer helt fin, kjorer tre ganger osv. men selve rutenettet vil ikke oppdatere 
-seg i det hele tatt / samme med antall levende celler - men det er jo folgefeil siden rutenettett vil ikke oppdatere seg. Det som er litt dumt er at generasjonsnummeret oekes
-saa metoden "oppdatering" fra Verden.java fungerer som den skal??? Nar man kjorer test verden med oppdatder funskjonen, sa oppdaterer den seg hver gang den blir kjort... Hvis du 
-kan tipse meg paa hva som er feil, saa hadde jeg vaert veldig takknemlig. Jeg kan ogsaa nevne at alle tester i alle klassene kjorer helt fint uten noe som helst problemer...
-*/
